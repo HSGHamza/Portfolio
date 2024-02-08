@@ -9,7 +9,7 @@ else
     if(window.matchMedia('(max-width: 500px)').matches)
     {
         element.style.height="50px"
-        element.style.marginLeft = "-100%"
+        element.style.marginLeft = "-2%"
     }
     else{
         element.style.height="50px"
