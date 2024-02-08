@@ -19,16 +19,19 @@ else
 })
 
 //mobile Element
-
-document.querySelector('.topnav').style.display = "none";
+document.addEventListener("DOMContentLoaded", function() {
+  // Hide the navigation bar on page load
+  document.querySelector('.topnav').style.display = "none";
+});
 
 function menu() {
-    var x = document.querySelector('.topnav');
-    if (x.style.display === "none") {
-      x.style.display = "";
-    } else {
-      x.style.display = "none";
-    }
+  var x = document.querySelector('.topnav');
+  if (x.style.display === "none" || x.style.display === "") {
+    x.style.display = "flex"; // Change to your preferred display value (e.g., "flex")
+  } else {
+    x.style.display = "none";
   }
+}
+
 
 
