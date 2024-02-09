@@ -62,7 +62,8 @@ If you have suggestions for improvements, feel free to open an issue or create a
 License
 This project is licensed under the MIT License.
 
-Contact
+Contact:
+
 LinkedIn: Hamza Shahid
 Twitter: @hamzathehero72
 Email: hamzathehero7@gmail.com
