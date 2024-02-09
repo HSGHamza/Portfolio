@@ -149,7 +149,7 @@ button:hover{
 }
 
 
-.home, .projects, .aboutme {
+.home, .projects {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 30px;
@@ -160,7 +160,17 @@ button:hover{
     position: relative;
 
 }
+.aboutme {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    color: aliceblue;
+    margin-bottom: 120px;
+    margin-left: 90px;
+    width: 75vw;
+    position: relative;
 
+}
 .blue{
     color: aqua;
 }
