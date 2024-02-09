@@ -1,6 +1,6 @@
 # HSG - Hamza Shahid's Portfolio
 
-![HSG Logo](Content/HSG.png)
+![HSG Logo](Content/271910269_360703848825039_6755789994983969974_n.png)
 
 ## Introduction
 
